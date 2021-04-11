@@ -3,6 +3,11 @@ A simple js library for creating email block. This EmailsInput doesn't have any 
 
 Here's demo
 
+### NPM
+
+npm i emails-input-jslibrary
+
+[https://www.npmjs.com/package/emails-input-jslibrary](https://www.npmjs.com/package/emails-input-jslibrary)
 
 ### Usage:
 
