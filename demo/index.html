@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="vsiewport" content="width=device-width, initial-scale=1">
+  <title>Frontend Test Assessment</title>
+  <!-- Google Font -->
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+  <!-- Custom Style -->
+  <link rel="stylesheet" href="style.css">
+  <!-- JS library style -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/gunaygultekin/emails-input@latest/src/css/emails-input.css">
+</head>
+
+<body>
+  <div class="main">
+    <div class="context">
+      <p class="title">Share <span>Board name</span> with others</p>
+      <div id="emails-input"></div>
+    </div>
+    <div class="actions">
+      <button type="button" onclick="addEmail()">Add email</button>
+      <button type="button" onclick="getEmailCount()">Get emails count</button>
+    </div>
+  </div>
+  <!-- JS library -->
+  <script src="https://cdn.jsdelivr.net/gh/gunaygultekin/emails-input@latest/src/js/emails-input.js"></script>
+  <script>
+    var inputContainerNode = document.querySelector('#emails-input');
+    var emailsInput = new EmailsInput(inputContainerNode);
+    emailsInput.render();
+
+    function addEmail() {
+      emailsInput.addEmail()
+    }
+
+    function getEmailCount() {
+      alert(emailsInput.getEmailCount())
+    }
+  </script>
+</body>
+
+</html>

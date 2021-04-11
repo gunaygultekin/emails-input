@@ -3,6 +3,11 @@ A simple js library for creating email block. This EmailsInput doesn't have any 
 
 Here's demo
 
+### CDN Links:
+
+[https://cdn.jsdelivr.net/gh/gunaygultekin/emails-input@latest/src/js/emails-input.min.js](https://cdn.jsdelivr.net/gh/gunaygultekin/emails-input@latest/src/js/emails-input.min.js)  
+[https://cdn.jsdelivr.net/gh/gunaygultekin/emails-input@latest/src/css/emails-input.min.css](https://cdn.jsdelivr.net/gh/gunaygultekin/emails-input@latest/src/css/emails-input.min.css)  
+
 ### NPM
 
 npm i emails-input-jslibrary
