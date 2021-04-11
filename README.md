@@ -1,7 +1,7 @@
 # emails-input
 A simple js library for creating email block. This EmailsInput doesn't have any dependencies and can be used with any other form or app independently.
 
-Here's demo
+Here's [demo](https://gunaygultekin.github.io/emails-input/demo/index.html)
 
 ### CDN Links:
 
