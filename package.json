@@ -1,6 +1,6 @@
 {
   "name": "emails-input-jslibrary",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple js library for creating email block. This EmailsInput doesn't have any dependencies and can be used with any other form or app independently",
   "main": "emails-input.js",
   "scripts": {
