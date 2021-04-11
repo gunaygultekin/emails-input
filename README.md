@@ -5,8 +5,8 @@ Here's [demo](https://gunaygultekin.github.io/emails-input/demo/index.html)
 
 ### CDN Links:
 
-[https://cdn.jsdelivr.net/gh/gunaygultekin/emails-input@latest/src/js/emails-input.min.js](https://cdn.jsdelivr.net/gh/gunaygultekin/emails-input@latest/src/js/emails-input.min.js)  
-[https://cdn.jsdelivr.net/gh/gunaygultekin/emails-input@latest/src/css/emails-input.min.css](https://cdn.jsdelivr.net/gh/gunaygultekin/emails-input@latest/src/css/emails-input.min.css)  
+[https://cdn.jsdelivr.net/npm/emails-input-jslibrary@latest/src/js/emails-input.min.js](https://cdn.jsdelivr.net/npm/emails-input-jslibrary@latest/src/js/emails-input.min.js)  
+[https://cdn.jsdelivr.net/npm/emails-input-jslibrary@latest/src/css/emails-input.min.css](https://cdn.jsdelivr.net/npm/emails-input-jslibrary@latest/src/css/emails-input.min.css)  
 
 ### NPM
 
