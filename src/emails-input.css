@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+#emails-input {
+  width: 430px;
+	background-color: #fff;
+	border-radius: 6px;
+	border: 1px solid #cecece;
+  height: 86px;
+	padding: 8px 8px 4px 7px;
+	overflow: auto;
+}
+
+#emails-input input {
+	width: 124px;
+  font-family: 'Open Sans', sans-serif;
+	resize: none;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 14px;
+	line-height: 24px;
+	border: 0;
+	outline: 0;
+	padding: 0;
+	float: left;
+}
+#emails-input > div {
+  display: flex;
+	background-color: rgba(102, 153, 255, 0.2);
+	border-radius: 30px;
+  font-size: 14px;
+  line-height: 24px;
+  margin-right: 8px;
+	padding: 0px 15px 2px 10px;
+	margin: 0 auto 4px;
+	float: left;
+}
+
+#emails-input > div.invalid{
+	width: 99px;
+	background-color: transparent;
+	border-bottom: 1px dashed #D92929;
+	border-radius: initial;
+	padding-bottom: 1px;
+}
+
+#emails-input > div div {
+	position: relative;
+  top: 8px;
+  left: 8px;
+  height: 8px;
+  width: 8px;
+  background-repeat: no-repeat;
+  background-image: url('./remove.svg');
+  cursor: pointer;
+}

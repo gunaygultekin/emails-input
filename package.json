@@ -1,0 +1,28 @@
+{
+  "name": "emails-input",
+  "version": "1.0.0",
+  "description": "A simple js library for creating email block. This EmailsInput doesn't have any dependencies and can be used with any other form or app independently",
+  "main": "emails-input.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gunaygultekin/emails-input.git"
+  },
+  "keywords": [
+    "library",
+    "javascript",
+    "css",
+    "html",
+    "javascript-library",
+    "email",
+    "email-validation"
+  ],
+  "author": "Günay Gültekin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gunaygultekin/emails-input/issues"
+  },
+  "homepage": "https://github.com/gunaygultekin/emails-input#readme"
+}
